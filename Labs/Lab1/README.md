@@ -22,5 +22,7 @@
 ##### 3) line vty 0-4, 5-15
 ##### 4) Никаких настроек на коммутаторе не производили, поэтому конфигурации запуска нет.
 ##### 5) Нет. Настройки не производились.
-##### 6) 
+##### 6) Таблица MAC адрессов пустая, но при вводе команды show interface vlan 1 отображается МАС аппартаного обеспечения ЦП
+![](https://github.com/A1exger/Network-Engineer/blob/main/Labs/Lab1/mac.PNG)
+![](https://github.com/A1exger/Network-Engineer/blob/main/Labs/Lab1/check.PNG)
 
