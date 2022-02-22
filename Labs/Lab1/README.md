@@ -63,6 +63,7 @@
 
 ### Part 2 Basic Switch Configuration
 
-
+#### Для чего нужна команда login?
+#### ***просит ввести пароль при подключении через telnet или ssh***
 
 
