@@ -1,6 +1,6 @@
 ## Лабораторная работа № 1
 
-##### Используется программы симуляции Cisco Packet Tracer
+##### Используется программа симуляции Cisco Packet Tracer
 
 ###                                       Топология
 ![](https://github.com/A1exger/Network-Engineer/blob/main/Labs/Lab1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
