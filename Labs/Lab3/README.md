@@ -13,6 +13,10 @@
 #### Проверка 
 ![проверка2](https://user-images.githubusercontent.com/99610266/160459409-d6263c69-f761-4f63-856b-b195b837b3c9.PNG)
 
-
-
+#### Проблема 3
+![3](https://user-images.githubusercontent.com/99610266/160461801-74ec74ac-664a-48b1-a77d-ea8b558ff548.PNG)
+### Решение
+![234](https://user-images.githubusercontent.com/99610266/160462422-c6ab7d08-e838-42fd-8845-ccac0fc31948.jpg)
+#### Проверка 
+![проверка3](https://user-images.githubusercontent.com/99610266/160461887-6bbcef3b-35ab-4ffa-900c-28bad533c90c.PNG)
 
