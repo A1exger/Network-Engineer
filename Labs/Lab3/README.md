@@ -19,4 +19,7 @@
 ![234](https://user-images.githubusercontent.com/99610266/160462422-c6ab7d08-e838-42fd-8845-ccac0fc31948.jpg)
 #### Проверка 
 ![проверка3](https://user-images.githubusercontent.com/99610266/160461887-6bbcef3b-35ab-4ffa-900c-28bad533c90c.PNG)
-
+#### Проблема 4
+![4](https://user-images.githubusercontent.com/99610266/160465135-9a10e4ae-48a9-42fb-a4fc-6cb8a81425e7.PNG)
+### Проверка
+![проверка4](https://user-images.githubusercontent.com/99610266/160465176-adf8501c-c727-481b-a081-c576ad21a66f.PNG)
