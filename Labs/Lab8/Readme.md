@@ -29,3 +29,5 @@
 ![7](https://user-images.githubusercontent.com/99610266/170832993-2efc287f-ad4a-41ac-a820-d10d033539fa.png)
 #### При настройке выяснилось что одной команды нет в CPT.
 ![8](https://user-images.githubusercontent.com/99610266/170833574-e4882366-a66a-4d93-8ea0-fff0577a56d4.png)
+#### Поэтому я просто также настроил на втором роутере DHCP и пропинговал с ПК-Б адрес ПК-А. 
+![9](https://user-images.githubusercontent.com/99610266/170834045-7241157c-3e41-4a5d-9292-2469280cb0fa.png)
