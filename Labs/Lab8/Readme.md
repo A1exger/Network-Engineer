@@ -22,4 +22,5 @@
 #### Тестирование подключения с помощью пинга IP-адреса интерфейса G0/1 R2. Successfully.
 ![5](https://user-images.githubusercontent.com/99610266/170832462-0101644f-327d-4e92-b2a5-75d6d8f0e1bc.png)
 ### 3. Настройка сервера DHCPv6 с сохранением состояния на R1
-
+#### Настройка произведена.
+![6](https://user-images.githubusercontent.com/99610266/170832806-a740c858-4e54-4d1d-84c2-ba4328e8858a.png)
