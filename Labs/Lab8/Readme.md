@@ -24,3 +24,8 @@
 ### 3. Настройка сервера DHCPv6 с сохранением состояния на R1
 #### Настройка произведена.
 ![6](https://user-images.githubusercontent.com/99610266/170832806-a740c858-4e54-4d1d-84c2-ba4328e8858a.png)
+### 4. Настройка и проверка ретрансляции DHCPv6 на R2.
+#### Включите PC-B и проверьте адрес SLAAC, который он генерирует.
+![7](https://user-images.githubusercontent.com/99610266/170832993-2efc287f-ad4a-41ac-a820-d10d033539fa.png)
+#### При настройке выяснилось что одной команды нет в CPT.
+![8](https://user-images.githubusercontent.com/99610266/170833574-e4882366-a66a-4d93-8ea0-fff0577a56d4.png)
