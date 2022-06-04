@@ -61,4 +61,7 @@
 #### Настройка R2 в качестве агента DHCP-ретрансляции для локальной сети на G0/0/1
 #### Настройка произведена
 ![15](https://user-images.githubusercontent.com/99610266/171986640-d1218789-d449-4789-9757-1802adc07ffe.png)
+#### IP адрес получен пинги доходят.
+![16](https://user-images.githubusercontent.com/99610266/171986771-23ba7360-a52e-4c41-9ae0-9332913533ef.png)
+![17](https://user-images.githubusercontent.com/99610266/171986775-32f07196-70fb-4956-9e25-c84276977349.png)
 
