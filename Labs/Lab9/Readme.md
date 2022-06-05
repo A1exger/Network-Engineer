@@ -21,3 +21,22 @@
 #### Остальные настройки успешно установлены на портах коммутаторов.
 ![7](https://user-images.githubusercontent.com/99610266/172046193-d6b1b666-93fc-47f6-8fcc-1b7b87a2ed76.png)
 ### Реализация безопасности DHCP snooping
+#### При включении DHCP snooping компютер подключенный к коммутатору S2 перестает получать IP address. 
+#### Как настраивал:
+#### 1. ip dhcp snooping
+#### 2. ip dhcp snooping vlan 10
+#### 3. В интерфейсе Fa-0/1 в сторону коммутатора S1 настроил Trust
+#### 4. На интерфейсе Fa-0/18 настроил лимит в 5 пакетов как указано в методичке.
+#### 5. Добавил для проверки включил другой пк на 2-й порт. Адрес также не получает, при установлении этого порта в trust получает. 
+
+![8](https://user-images.githubusercontent.com/99610266/172061778-7e00fe12-c5ed-4e91-81f4-c271b3ff08ef.png)
+
+![9](https://user-images.githubusercontent.com/99610266/172061783-d5184e93-2ffd-4bf3-9c37-ec8ce137586b.png)
+
+![10](https://user-images.githubusercontent.com/99610266/172061790-a79b7c08-e016-468a-9dc0-ba14544b2986.png)
+
+![11](https://user-images.githubusercontent.com/99610266/172061792-c0fe1b9f-890a-4189-b353-be7779c43514.png)
+
+![12](https://user-images.githubusercontent.com/99610266/172061794-c5451aac-9c3c-4f39-9e06-ef0a3f801ec9.png)
+
+
