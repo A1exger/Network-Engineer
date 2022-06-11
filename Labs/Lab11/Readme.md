@@ -6,3 +6,5 @@
 ![2](https://user-images.githubusercontent.com/99610266/172924126-50aa9d23-1de2-44f3-ba69-77b2e867e77e.png)
 ### Настройка на R2 произведена.
 ![3](https://user-images.githubusercontent.com/99610266/172924894-a3cf9508-6802-432b-8068-fb4a8c5c5494.png)
+### Настройка удаленного доступа произведена. Защищенные веб службы с проверкой подлинности включены.
+![4](https://user-images.githubusercontent.com/99610266/173179024-a3e63f71-125a-4cdf-99cb-47e95e2c9113.png)
