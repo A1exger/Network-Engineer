@@ -13,3 +13,7 @@
 #### *489 пакетов*
 #### После настройки вланов и шлюза по умолчанию на коммутаторах на R1 стали видны влан и ip адрес.
 ![5](https://user-images.githubusercontent.com/99610266/173233062-e267b883-f0a9-4938-ba2a-1246721224c2.png)
+### Обнаружение сетевых ресурсов с помощью протокола LLDP.
+#### Что такое chassis ID  для коммутатора S2?
+![6](https://user-images.githubusercontent.com/99610266/173233115-ea2fcd9b-1811-40de-86f0-788d339c4dcd.png)
+#### Chassis ID is MAC-address by S2
