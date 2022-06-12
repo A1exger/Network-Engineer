@@ -1,1 +1,15 @@
-# Lab13
+# Настройка протоколов CDP, LLDP и NTP
+### Topolige
+![Topologie](https://user-images.githubusercontent.com/99610266/173232840-cf532752-6bfe-4fcd-b381-73f7e0c14804.png)
+### Обнаружение сетевых ресурсов с помощью протокола CDP
+![2](https://user-images.githubusercontent.com/99610266/173232872-3cb734e0-db5d-4806-9e3b-897e9225e15a.png)
+#### Сколько интерфейсов участвует в объявлениях CDP? Какие из них активны?
+#### *4 интерфейса учавствуют, 1 порт активен.*
+#### Какая версия IOS используется на  S1?
+![3](https://user-images.githubusercontent.com/99610266/173232932-ba94ab32-5e12-4f4b-b598-f473ceefe1c5.png)
+#### *Version 15.1*
+#### Сколько пакетов имеет выход CDP с момента последнего сброса счетчика?
+![4](https://user-images.githubusercontent.com/99610266/173232970-d9b48668-4e2e-418e-b3c0-18a1a91b3ed2.png)
+#### *489 пакетов*
+#### После настройки вланов и шлюза по умолчанию на коммутаторах на R1 стали видны влан и ip адрес.
+![5](https://user-images.githubusercontent.com/99610266/173233062-e267b883-f0a9-4938-ba2a-1246721224c2.png)
