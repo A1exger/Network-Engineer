@@ -17,3 +17,10 @@
 #### Что такое chassis ID  для коммутатора S2?
 ![6](https://user-images.githubusercontent.com/99610266/173233115-ea2fcd9b-1811-40de-86f0-788d339c4dcd.png)
 #### Chassis ID is MAC-address by S2
+### Настройка NTP
+#### The current time
+![7](https://user-images.githubusercontent.com/99610266/173233281-fbc87363-7a39-40c1-84e0-351b4e6e8182.png)
+#### After setting the time
+![8](https://user-images.githubusercontent.com/99610266/173233352-8fc98743-87ac-43c3-8289-ca02317a1803.png)
+### Настройте главный сервер NTP.
+![9](https://user-images.githubusercontent.com/99610266/173233383-a2869320-bd6a-451c-b348-980d52d9dcca.png)
