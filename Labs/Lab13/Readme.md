@@ -24,3 +24,5 @@
 ![8](https://user-images.githubusercontent.com/99610266/173233352-8fc98743-87ac-43c3-8289-ca02317a1803.png)
 ### Настройте главный сервер NTP.
 ![9](https://user-images.githubusercontent.com/99610266/173233383-a2869320-bd6a-451c-b348-980d52d9dcca.png)
+#### Синхроизация на R1 прошла. На S2 не синхронизируется.
+![10](https://user-images.githubusercontent.com/99610266/173236570-27889338-a77a-4365-87d3-395f94fbcef4.png)
