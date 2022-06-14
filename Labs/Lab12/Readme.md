@@ -29,3 +29,8 @@
 #### Настройка через интерфейс проведена. теперь все идет через ip адрес gi-0/0 
 ![7](https://user-images.githubusercontent.com/99610266/173666660-ceaaf8f7-9242-46b9-adf5-d5a2ff248e7b.png)
 #### Настройка и проверка статического NAT для IPv4.
+#### Статический NAT настроен.
+![8](https://user-images.githubusercontent.com/99610266/173667427-47b35b18-f214-4765-bb80-b2b75834f63b.png)
+#### Пинг с R2 проходит.
+![9](https://user-images.githubusercontent.com/99610266/173667864-b915f25e-7466-46dd-94db-62e9b2244bfc.png)
+
