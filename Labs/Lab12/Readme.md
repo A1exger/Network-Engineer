@@ -10,7 +10,19 @@
 #### Какой тип адреса NAT является переведенным адресом?
 #### Inside global
 #### Пинг с коммутаторов уже не проходит, т.к адреса все заняты.
-![2](https://user-images.githubusercontent.com/99610266/173255490-9f9eb16f-e360-4919-ac31-6de83cad1cc6.png)
 #### Очистка NAT прошла успешно.
 ![3](https://user-images.githubusercontent.com/99610266/173255543-eec2ccd0-369c-4687-b1dc-c4d976959206.png)
 ### Настройка и проверка PAT для IPv4
+#### ip nat inside source list 1 pool PUBLIC_ACCESS overload 
+#### Настроен PAT
+![4](https://user-images.githubusercontent.com/99610266/173661847-c41532bf-b552-42cc-8a47-7537abaa1802.png)
+#### Во что был транслирован внутренний локальный адрес PC-B?
+#### Во внешний адрес outside global(сокет с указанием порта)
+#### Какой тип адреса NAT является переведенным адресом?
+#### Outside global
+#### Чем отличаются выходные данные команды show ip nat translations из упражнения NAT?
+#### Заполнился стоблец с outside global and ouside local. Отображаются сокеты, для определения порта.
+#### При одновременном трафике адрес используется один.
+![6](https://user-images.githubusercontent.com/99610266/173664788-ff897709-6e5c-421a-bd1e-62e0e63ececf.png)
+#### Как маршрутизатор отслеживает, куда идут ответы? 
+#### За счет портов.
