@@ -3,6 +3,10 @@
 ![Topologie](https://user-images.githubusercontent.com/99610266/173250607-a0313138-b7de-4d0d-83ca-b73decfa8f84.png)
 ## Настройка и проверка NAT для IPv4.
 #### Настройка произведена согласно пунктам в методичке.
+#### Настроен ACL, который позволяет всем хоста в данной сети транслироваться *access-list 1 permit 192.168.1.0 0.0.0.255*
+#### Создал пул адресов NAT *ip nat pool PUBLIC_ACCESS 209.165.200.226 209.165.200.228 netmask 255.255.255.248*
+#### Связал ACL и пулом NAT *ip nat inside source list 1 pool PUBLIC_ACCESS*
+#### Настроил какой интерфейс будет внутренним, а какой внешним с помощью команд *ip nat inside, ip nat outside*
 #### Пинг проходит.
 ![2](https://user-images.githubusercontent.com/99610266/173357071-d117016c-1140-4feb-ba4c-cb4b3a50f614.png)
 #### Во что был транслирован внутренний локальный адрес PC-B?
