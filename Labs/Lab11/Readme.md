@@ -17,4 +17,6 @@
 ### Настройка ACL для запрета icmp запроса из сети Operations в сеть Sales.
 ![12](https://user-images.githubusercontent.com/99610266/177036834-3469d5f8-f277-4b1a-bb49-d648402e8239.png)
 ![11](https://user-images.githubusercontent.com/99610266/177036824-6aa99ba4-3c74-4c28-9af2-5cf49e0953e1.png)
+### Результат
+![13](https://user-images.githubusercontent.com/99610266/177036886-4add137a-2691-4b5d-a245-992b247ee31c.png)
 
